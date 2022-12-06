@@ -1,0 +1,78 @@
+*{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+body
+{
+
+    background-image: url(bmw1.jpg);
+    background-size:cover;
+    background-repeat: no-repeat; 
+}
+
+h1{
+    color: white;
+    position: absolute;
+    left :45px;
+    margin-top: 15px;
+}
+#hey{
+    position: absolute;
+    top:10px;
+}
+
+main{
+    position: relative;
+}
+nav{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height: 10vh;
+    background-color:black;
+}
+nav #menu a{
+    text-decoration:none;
+    color: white;
+}
+#logo{
+    align-items: center;
+    align-items: center;
+    position:absolute;
+    top: 10px;
+    color: blue; 
+    justify-content: space-between;
+}
+nav #menu{
+    position:absolute;
+    top: 20px;
+    left: 1150px;
+    display:flex;
+}
+#space{
+width:40px;
+}
+
+
+#h11
+{
+font-size: 50px;
+position: absolute;
+margin-top: 180px;
+left: 39%;
+}
+#h22
+{
+font-size: 40px;
+left: 38%;
+position: absolute;
+margin-top: 230px;
+}
+h4{
+   
+left: 45%;
+position: absolute;
+margin-top: 285px;
+color: white;
+}
